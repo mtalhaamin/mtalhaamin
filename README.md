@@ -1,10 +1,12 @@
 # Muhammad Talha
 
-Full-stack .NET developer. I build CMS-driven websites (Umbraco, Sitecore, Kentico) and secure web applications.
+**Full-stack .NET developer** building websites, web applications and CMS platforms, and deploying them on **Azure** and **IIS**.
 
 ### About
 
-I work across the whole stack: ASP.NET Core MVC and Web Forms on the server, SQL Server for data, Angular and JavaScript in the browser, and Azure DevOps for build and release. Most of my work is content-managed websites, where clean structure and safe releases matter as much as features. That is also why I built Security Gate.
+I build and look after .NET projects from start to finish. On the backend I work with .NET Core, ASP.NET Core MVC and Web Forms, with SQL Server for data. On the frontend I use Angular, JavaScript, HTML and CSS. A big part of my work is CMS websites on Sitecore and Umbraco.
+
+I also take projects all the way to production: I set up builds and releases in Azure DevOps and deploy to Azure and IIS. I care about clean code and safe releases, which is why I built Security Gate, a tool that checks a project for security problems before it goes live.
 
 ### Featured project: Security Gate
 
@@ -28,7 +30,7 @@ I work across the whole stack: ASP.NET Core MVC and Web Forms on the server, SQL
 [![Tech stack](https://skillicons.dev/icons?i=cs,dotnet,angular,js,html,css,azure,docker,androidstudio&perline=9)](#tech-stack)
 
 - **Backend:** C#, .NET, ASP.NET Core MVC, ASP.NET Web Forms
-- **CMS:** Umbraco, Sitecore, Kentico
+- **CMS:** Sitecore, Umbraco
 - **Frontend:** Angular, JavaScript, HTML, CSS
 - **Database:** SQL Server
 - **Mobile:** Android
@@ -36,8 +38,9 @@ I work across the whole stack: ASP.NET Core MVC and Web Forms on the server, SQL
 
 ### Currently working on
 
-- Improving Security Gate and testing it on more kinds of projects (Node, Python, Java)
-- Building .NET and Umbraco websites
+- .NET Core applications and backend services
+- Sitecore and Umbraco websites
+- Improving Security Gate and testing it on more kinds of projects
 
 ### Contact
 
