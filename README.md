@@ -5,10 +5,11 @@ Full-stack .NET developer. I build web applications and CMS websites with .NET o
 ### What I work with
 
 - **Backend:** C#, .NET, ASP.NET Core MVC, ASP.NET Web Forms
-- **CMS:** Umbraco, Sitecore
+- **CMS:** Umbraco, Sitecore, Kentico
 - **Frontend:** Angular, JavaScript, HTML, CSS
 - **Database:** SQL Server
 - **Mobile:** Android
+- **Cloud & DevOps:** Azure, Azure DevOps, IIS
 - **Tools:** Docker, Git, GitHub Actions
 
 ### Featured project: [Security Gate](https://github.com/mtalhaamin/Security-Gate-Skill)
